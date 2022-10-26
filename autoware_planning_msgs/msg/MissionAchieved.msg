@@ -1,0 +1,2 @@
+int8 mission_order
+bool mission_achieved

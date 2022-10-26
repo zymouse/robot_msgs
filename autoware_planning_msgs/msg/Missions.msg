@@ -1,0 +1,2 @@
+autoware_planning_msgs/Mission current_mission
+autoware_planning_msgs/Mission[] all_missions
